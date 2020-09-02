@@ -1,0 +1,41 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="test:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/test_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="test/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="test" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="application" name="Spring MVC-5.2.7" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../SpringCourseSolutions/spring-and-hibernate-for-beginners-master/04-spring-mvc-crud-5/web-customer-tracker-starter-files/WebContent/WEB-INF/lib/mysql-connector-java-8.0.12.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../SpringCourseSolutions/libaries/spring-mcv-hibernate-project-lib/jaxb-impl-2.3.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../SpringCourseSolutions/libaries/spring-mcv-hibernate-project-lib/jaxb-api-2.3.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../SpringCourseSolutions/libaries/spring-mcv-hibernate-project-lib/javax.activation-1.2.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../SpringCourseSolutions/libaries/spring-mcv-hibernate-project-lib/jaxb-core-2.3.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/antlr-2.7.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jandex-2.1.3.Final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/hibernate-c3p0-5.4.18.Final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.activation-api-1.2.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/FastInfoset-1.2.15.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/byte-buddy-1.10.10.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/istack-commons-runtime-3.0.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/dom4j-2.1.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/hibernate-commons-annotations-5.1.0.Final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/stax-ex-1.8.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/jaxb-runtime-2.3.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/hibernate-core-5.4.18.Final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.persistence-api-2.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/c3p0-0.9.5.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/mchange-commons-java-0.2.15.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/txw2-2.3.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javassist-3.24.0-GA.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/classmate-1.5.1.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
